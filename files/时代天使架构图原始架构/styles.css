@@ -1591,3 +1591,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u88_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:194px;
+  height:33px;
+}
+#u88 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:194px;
+  height:33px;
+}
+#u89 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:190px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
